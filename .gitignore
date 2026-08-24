@@ -1,0 +1,7 @@
+build/
+*.bin
+*.elf
+*.hex
+.vscode/
+sketch.json
+secrets.h
