@@ -15,7 +15,7 @@ A classic Snake game built from scratch for the ESP32, running on a 128x64 SSD13
 - Push-button start and replay
 - Score tracking and display
 - Buzzer sound effects: start jingle, score tone, and game-over tone
-- Collision detection for walls and self-collision
+- Collision detection self-collision
 
 ## Hardware
 
@@ -62,7 +62,7 @@ Built in the Arduino IDE. Install the following libraries via the Library Manage
 2. Press the start button to begin (a short jingle plays first).
 3. Steer the snake with the joystick; it moves continuously on a fixed interval.
 4. Eat food tiles to grow and increase your score.
-5. Avoid colliding with the walls or the snake's own body.
+5. Avoid colliding with the snake's own body.
 6. On game over, press the button again to replay.
 
 ## Project Structure
