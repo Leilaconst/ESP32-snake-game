@@ -6,7 +6,7 @@ A classic Snake game built from scratch for the ESP32, running on a 128x64 SSD13
 
 | Wired Build | Display Mockup |
 |:---:|:---:|
-| ![Wired build of the ESP32 snake game](images/wired-build.jpeg) | ![Digital mockup of the game display](images/display-mockup.png) |
+| ![Wired build of the ESP32 snake game](images/wired-buil.jpeg) | ![Digital mockup of the game display](images/display-mockup.png) |
 
 ## Features
 
